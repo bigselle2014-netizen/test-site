@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://pfclick.github.io/test-site/sitemap.xml
+Sitemap: https://bigselle2014-netizen.github.io/test-site/sitemap.xml
